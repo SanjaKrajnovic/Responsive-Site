@@ -1,0 +1,23 @@
+{
+  "images": [
+    {
+      "image": "images/purple_box.jpg",
+      "description": "purple_box"
+    },
+    {
+      "image": "images/city.jpg",
+      "description": "city"
+    },
+    {
+      "image": "images/girl.jpg",
+      "description": "girl"
+    }
+  ],
+
+  "videos": [
+    {
+      "video": "https://player.vimeo.com/video/39683393?api=1&amp;player_id=player_1",
+      "type": "vimeo"
+    }
+  ]
+}
